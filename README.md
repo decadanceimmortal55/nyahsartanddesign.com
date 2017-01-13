@@ -16,7 +16,7 @@
             has strived to provide great design for websites, games, and
             businesses to the public while writing poetry in her spare time.
             She currently lives at home with her nine-year old sister, her mom
-            and father. If you have any inquiries, contact Nyah at nyah.gilmore@yahoo.com</h4>
+            and father. </h4>
       <h1>Art Pieces, Designs, Flyers and More</h1>
       <a href="http://tinypic.com?ref=vx7xh" target="_blank"><img alt="Image and video hosting by TinyPic" border="0" src="http://i66.tinypic.com/vx7xh.png"></a>
       <a href="http://tinypic.com?ref=9is70l" target="_blank"><img alt="Image and video hosting by TinyPic" border="0" src="http://i63.tinypic.com/9is70l.png"></a>
