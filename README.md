@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <!--- Start of first page =-->
 <title></title>
 
