@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<!--- Start of first page =-->
+<title></title>
 
-You can use the [editor on GitHub](https://github.com/decadanceimmortal55/nyahsartanddesign.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/decadanceimmortal55/nyahsartanddesign.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<body>
+  <h1>Nyah's Art and Design</h1>
+  <a href="http://www.nyahsartanddesign.com/" rel="nofollow"></a>
+  <div data-role="page" id="Webpage">
+    <div data-role="Header">
+      <h2>Welcome to my webpage!</h2>
+    </div>
+  </div>
+  <!--- Start of second page --->
+  <div data-role="page" id="page1">
+    <div class="ui-content" data-role="main">
+      <h4>Born Nyah Gilmore-Logan in Chicago, IL on July 5th, 1999, Nyah
+            has strived to provide great design for websites, games, and
+            businesses to the public while writing poetry in her spare time.
+            She currently lives at home with her nine-year old sister, her mom
+            and father. If you have any inquiries, contact Nyah at nyah.gilmore@yahoo.com</h4>
+      <h1>Art Pieces, Designs, Flyers and More</h1>
+      <a href="http://tinypic.com?ref=vx7xh" target="_blank"><img alt="Image and video hosting by TinyPic" border="0" src="http://i66.tinypic.com/vx7xh.png"></a>
+      <a href="http://tinypic.com?ref=9is70l" target="_blank"><img alt="Image and video hosting by TinyPic" border="0" src="http://i63.tinypic.com/9is70l.png"></a>
+      <a href="http://tinypic.com?ref=oswio4" target="_blank"><img alt="Image and video hosting by TinyPic" border="0" src="http://i63.tinypic.com/oswio4.jpg"></a>
+      <a href="http://tinypic.com?ref=wcols1" target="_blank"><img alt="Image and video hosting by TinyPic" border="0" src="http://i65.tinypic.com/wcols1.jpg"></a>
+      <a href="http://tinypic.com?ref=2zi99ty" target="_blank"><img alt="Image and video hosting by TinyPic" border="0" src="http://i63.tinypic.com/2zi99ty.jpg"></a>
+      <a href="http://tinypic.com?ref=9kqkuw" target="_blank"><img src="http://i64.tinypic.com/9kqkuw.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+      <a href="http://tinypic.com?ref=35co3sz" target="_blank"><img src="http://i67.tinypic.com/35co3sz.png" border="0" alt="Image and video hosting by TinyPic"></a>
+      <a href="http://tinypic.com?ref=33lzb81" target="_blank"><img src="http://i66.tinypic.com/33lzb81.png" border="0" alt="Image and video hosting by TinyPic"></a>
+      <h1>There will be more to come soon! :)</h1>
+	<!--- Start of third page --->
+		<h1> Nyah Gilmore is an aspiring artist, digital and traditional painter, writer, and computer coder. 
+		Born on July 5th, 1999 in Chicago, Illinois, she has always attempted to pursue her passion by helping others realize theirs. 
+		If you have any inquiries, contact her at 312-213-8011 or at kingdomdesigns23@yahoo.com <h1>
+    </div>
+  </div>
+</body>
